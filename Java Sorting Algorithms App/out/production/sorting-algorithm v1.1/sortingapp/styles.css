@@ -1,0 +1,40 @@
+.background-titlebar {
+    -fx-background-color: #374F63;
+}
+
+.titlebar-button-inactive {
+    -fx-font-family: DejaVu Sans Mono, monospace;
+    -fx-font-size: 16px;
+    -fx-font-weight: 800;
+    -fx-text-fill: ghostwhite;
+    -fx-background-color: transparent;
+}
+
+.titlebar-button-inactive:hover {
+    -fx-font-family: DejaVu Sans Mono, monospace;
+    -fx-font-size: 16px;
+    -fx-font-weight: 800;
+    -fx-text-fill: #E2AAFF;
+    -fx-background-color: transparent;
+}
+
+.titlebar-button-active {
+    -fx-font-family: 'DejaVu Serif', Georgia, "Times New Roman", Times, serif;
+    -fx-font-size: 16px;
+    -fx-text-fill: #D67FFF;
+    -fx-background-color: transparent;
+}
+
+.titlebar-label {
+    -fx-font-family: 'DejaVu Sans Mono', monospace;
+    -fx-font-size: 14px;
+    -fx-text-fill: white;
+}
+
+.menu-slider .thumb {
+    -fx-background-color: cornflowerblue;
+}
+
+.array-visualizer-rectangle {
+    -fx-background-color: cornflowerblue;
+}
